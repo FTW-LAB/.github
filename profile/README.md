@@ -1,23 +1,26 @@
 # FTW Lab
 
-**Sovereign open tooling. Contributions by [wantzjt](https://github.com/wantzjt).**
+**Sovereign open tooling.** Dual-forge: **GitHub (code)** × **Hugging Face (models)**.
 
-🌐 [ftwlab.com](https://ftwlab.com) · 📡 [Activity flywheel](https://ftwlab.com/activity) · ✉️ ops@ftwlab.com
+🌐 [ftwlab.com](https://ftwlab.com) · 📡 [Activity](https://ftwlab.com/activity) · 🧠 [Models](https://ftwlab.com/models) · ✉️ ops@ftwlab.com
 
-## Flywheel stages
+## Flywheel
 
-| Stage | Repo | Role |
-|-------|------|------|
-| 1. Scout | [`scout-daemon`](https://github.com/FTW-LAB/scout-daemon) | Public-source discovery |
-| 2. Vantage | [`vantage-hub`](https://github.com/FTW-LAB/vantage-hub) | Public hub + pulse |
-| 3. Implement | [`implementer-sdk`](https://github.com/FTW-LAB/implementer-sdk) | Legal implementer contracts |
-| 4. Bridge | [`tarx-bridge`](https://github.com/FTW-LAB/tarx-bridge) | TARX upstream only |
-| 5. Sovereignty | [`sovereignty-lab-kit`](https://github.com/FTW-LAB/sovereignty-lab-kit) | Local-first kits |
+Discover (GH Scout + HF Scout) → Contribute → Package → Field → Compound
 
-Also: [`geolite2-bridge`](https://github.com/FTW-LAB/geolite2-bridge) · [`ecosystem-prompts`](https://github.com/FTW-LAB/ecosystem-prompts)
+| Stage | Repo |
+|-------|------|
+| Scout | [`scout-daemon`](https://github.com/FTW-LAB/scout-daemon) |
+| Vantage | [`vantage-hub`](https://github.com/FTW-LAB/vantage-hub) |
+| Implement | [`implementer-sdk`](https://github.com/FTW-LAB/implementer-sdk) |
+| Geo | [`geolite2-bridge`](https://github.com/FTW-LAB/geolite2-bridge) |
+| Signal | [`redirect-intel`](https://github.com/FTW-LAB/redirect-intel) |
+| Field | [`tarx-bridge`](https://github.com/FTW-LAB/tarx-bridge) |
+| Prompts | [`ecosystem-prompts`](https://github.com/FTW-LAB/ecosystem-prompts) |
+| Sovereignty | [`sovereignty-lab-kit`](https://github.com/FTW-LAB/sovereignty-lab-kit) |
+
+HF house: [huggingface.co/FTWLAB](https://huggingface.co/FTWLAB) (public hub catalog on site until house weights publish)
 
 ## Posture
 
-Legal **OSINT / public-source only**. No unauthorized access. See AUP + SECURITY.md in each repo.
-
-Brand: `#38ADFA` · Domain: **FTWLAB.com** · Org: [FTW-LAB](https://github.com/FTW-LAB)
+Legal **public-source only**. No unauthorized access. MaxMind honesty. HF license respect. TARX upstream only.
