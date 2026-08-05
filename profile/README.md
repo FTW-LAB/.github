@@ -1,26 +1,23 @@
 # FTW Lab
 
-**Sovereign open tooling.** Dual-forge: **GitHub (code)** × **Hugging Face (models)**.
+Open infrastructure for infosec engineers.
 
-🌐 [ftwlab.com](https://ftwlab.com) · 📡 [Activity](https://ftwlab.com/activity) · 🧠 [Models](https://ftwlab.com/models) · ✉️ ops@ftwlab.com
+UNCLASSIFIED // PUBLIC SOURCE  
+INFOSEC · OSINT · CTI · GEOIP · MODELS
+
+Hub: https://ftwlab.com  
+Packages · Models · Scout · Link intelligence · Use cases
+
+Public source only. Authorized use. GeoIP is not identity.
+
+## Dual-forge
+
+| Plane | Link |
+|-------|------|
+| GitHub | https://github.com/FTW-LAB |
+| Hugging Face | https://huggingface.co/FTWLAB |
+| Site | https://ftwlab.com |
 
 ## Flywheel
 
-Discover (GH Scout + HF Scout) → Contribute → Package → Field → Compound
-
-| Stage | Repo |
-|-------|------|
-| Scout | [`scout-daemon`](https://github.com/FTW-LAB/scout-daemon) |
-| Vantage | [`vantage-hub`](https://github.com/FTW-LAB/vantage-hub) |
-| Implement | [`implementer-sdk`](https://github.com/FTW-LAB/implementer-sdk) |
-| Geo | [`geolite2-bridge`](https://github.com/FTW-LAB/geolite2-bridge) |
-| Signal | [`redirect-intel`](https://github.com/FTW-LAB/redirect-intel) |
-| Field | [`tarx-bridge`](https://github.com/FTW-LAB/tarx-bridge) |
-| Prompts | [`ecosystem-prompts`](https://github.com/FTW-LAB/ecosystem-prompts) |
-| Sovereignty | [`sovereignty-lab-kit`](https://github.com/FTW-LAB/sovereignty-lab-kit) |
-
-HF house: [huggingface.co/FTWLAB](https://huggingface.co/FTWLAB) (public hub catalog on site until house weights publish)
-
-## Posture
-
-Legal **public-source only**. No unauthorized access. MaxMind honesty. HF license respect. TARX upstream only.
+Discover → Contribute → Package → Field → Compound
