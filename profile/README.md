@@ -1,8 +1,11 @@
-# Moved
+# Moved to Securist
 
-**Securist** is now at:
+**Canonical:** [github.com/securist](https://github.com/securist) · [secur.ist](https://secur.ist)
 
-- https://github.com/securist  
-- https://secur.ist  
+This org (**FTW-LAB**) is a transitional mirror only. Product brand is **Securist**.
 
-This organization is a historical mirror. Do not use FTW-LAB for new work.
+- Emails: security@secur.ist · ops@secur.ist · legal@secur.ist
+- Classification: UNCLASSIFIED // PUBLIC SOURCE
+- Stack: INFOSEC · OSINT · CTI · GEOIP · MODELS
+
+Do not use FTW Lab / FTWLAB branding for new work.
